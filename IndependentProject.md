@@ -1,7 +1,7 @@
 HIMB Summer Course - Remote Sensing Independent Project
 ================
 INSERT YOUR NAME
-2019-05-31
+2019-06-06
 
 R Markdown information
 ----------------------
@@ -60,7 +60,7 @@ Images on the web:
 
 ![optional caption text](https://www.bestfunnies.com/wp-content/uploads/2012/08/Funny-Fish-11.jpg)
 
-To add images from your local files that are stored in the same directory (folder) as your Rproject, replace the web address above with the fliename of your image.
+To add images from your local files that are stored in the same directory (folder) as your Rproject, replace the web address above with the fliename of your image (e.g., funnyfacefish.jpg). You don't need the file path - just the file name.
 
 Results
 -------

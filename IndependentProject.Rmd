@@ -24,7 +24,8 @@ Try pressing the **Knit** button now to see what this looks like.
 ```{r setup, include=FALSE}
 # This is the 'setup' code chunk that tells the document whether to include anything from your code chunks in the output (knitted) document. "include=FALSE"" says "don't include code in my output".
 # You can also load R packages here. I've added the tidyverse package already since it's very useful, and you can insert here any other packages you eventually need for your analyses.
-library(tidyverse)
+
+# library(tidyverse) - Example: if you want to load any libraries, here would be the place to do so.
 ```
 
 Here is a 'cheat sheet' for how to format text in RMarkdown (e.g., how to make headings, bold text, italics, bulleted/numbered lists, etc.): 
@@ -58,7 +59,7 @@ Images on the web:
 
 ![optional caption text](https://www.bestfunnies.com/wp-content/uploads/2012/08/Funny-Fish-11.jpg)
 
-To add images from your local files that are stored in the same directory (folder) as your Rproject, replace the web address above with the fliename of your image.
+To add images from your local files that are stored in the same directory (folder) as your Rproject, replace the web address above with the fliename of your image (e.g., funnyfacefish.jpg). You don't need the file path - just the file name.
 
 ## Results
 
